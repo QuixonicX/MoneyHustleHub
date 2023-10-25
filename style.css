@@ -98,7 +98,7 @@ body::before {
     
     
     .holder {
-        margin-top: 15em;    
+        margin-top: 7em;    
         max-width: 800px;
         
     }
@@ -118,4 +118,24 @@ body::before {
     .holder {
         margin-top: 7em;
     }
+    }
+
+
+
+    .profile {
+        margin-bottom: 2em;
+    }
+    .img-container {
+        border-radius: 100%;
+        height: 150px;
+        border: 2.5px #0a234e solid;
+        margin-bottom: .8em;
+        cursor: pointer;
+    }
+
+    .profile_link {
+        font-size: 18px;
+        font-weight: normal; 
+        font-weight: bold;
+
     }
